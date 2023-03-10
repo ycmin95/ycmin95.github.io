@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+# gem 'bcrypt-ruby', '~> 3.0.0'
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -17,11 +18,33 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "liquid", ">4.0.3"
+# gem "jekyll-paginate"
+# gem "jekyll-gist"
+# gem "jekyll-redirect-from"
+# gem "kramdown-parser-gfm"
+# gem "webrick"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
+  # gem 'jekyll-email-protect'
+  # gem 'jekyll-github-metadata'
+  # gem 'jekyll-paginate-v2'
+  # gem 'jekyll-scholar'
+  # gem 'jekyll-twitter-plugin'
+  # gem 'jemoji'
+  # gem 'unicode_utils'
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# https://github.com/jekyll/jekyll/issues/5935#issuecomment-323496905
+gem 'tzinfo'
+gem 'tzinfo-data'
+# https://github.com/jekyll/jekyll/issues/8523#issue-774747339
+gem "webrick"
+
+# To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+gem "faraday-retry"
