@@ -34,8 +34,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2022!
+
 
 # 📝 Publications 
 
@@ -47,7 +47,8 @@ My research interest includes neural machine translation and computer vision. I 
 **Yuecong Min**, Peiqi Jiao, Yanan Li, Xiaotao Wang, Lei Lei, Xiujuan Chai, Xilin Chen
 
 <!-- [**Project**](https://github.com/ycmin95/VAC_CSLR) <strong><span class='show_paper_citations' data='qc2906sAAAAJ:u_35RYKgDlwC'></span></strong> -->
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- RadialCTC constrains sequence features on a hypersphere while retaining the iterative alignment mechanism of CTC, which also provides a clear geometric interpretation for CTC
+- RadialCTC controls the peaky behavior with a simple angular perturbation term
 </div>
 </div>
 
@@ -58,8 +59,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Yuecong Min**, Aiming Hao, Xiujuan Chai, Xilin Chen
 
-[**Project**](https://github.com/ycmin95/VAC_CSLR) <strong><span class='show_paper_citations' data='qc2906sAAAAJ:zA6iFVUQeVQC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://github.com/ycmin95/VAC_CSLR) <strong><span class='show_paper_citations' data='qc2906sAAAAJ:zA6iFVUQeVQC'></span></strong> \|  -->
+[![](https://img.shields.io/github/stars/ycmin95/VAC_CSLR?style=social&label=VAC Stars)](https://github.com/ycmin95/VAC_CSLR) [![](https://img.shields.io/github/forks/ycmin95/VAC_CSLR?style=social&label=Forks)](https://github.com/ycmin95/VAC_CSLR)
+- VAC provides an efficient way to make CSLR models end-to-end trainable and is adopted as the baseline model by many recent works
+- Two metrics to evaluate the contributions of the feature extractor and the alignment module
 </div>
 </div>
 
@@ -70,8 +73,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Yuecong Min**, Yanxiao Zhang, Xiujuan Chai, Xilin Chen
 
-[**Project**](https://github.com/ycmin95/pointlstm-gesture-recognition-pytorch) <strong><span class='show_paper_citations' data='qc2906sAAAAJ:iH-uZ7U-co4C'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[![](https://img.shields.io/github/stars/ycmin95/pointlstm-gesture-recognition-pytorch?style=social&label=PointLSTM Stars)](https://github.com/ycmin95/pointlstm-gesture-recognition-pytorch) [![](https://img.shields.io/github/forks/ycmin95/pointlstm-gesture-recognition-pytorch?style=social&label=Forks)](https://github.com/ycmin95/pointlstm-gesture-recognition-pytorch)
+- PointLSTM can leverage long-term spatio-temporal relationships in irregular sequence data (e.g., point cloud) while preserving the spatial structure for irregular sequence recognition problem
+- Evaluation results on 3D gesture recognition and action recognition show great potential for real-time applications
 </div>
 </div>
 
@@ -81,12 +85,23 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **China National Scholarship for Ph.D.**, ICT, CAS, 2020
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2017.09 - now, I am a Ph.D. student at Institute of Computing Technology, CAS, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao).
+- 2013.09 - 2017.07, I was a college student in Shandong University, Weihai.
+
+# ✒️ Academic Services
+- Invited journal reviewer for
+IEEE TPAMI / IEEE TMM / IEEE TIP / PR ...
+- Invited conference reviewer for
+CVPR'22 /ACM MM'22 / ECCV'22 / CVPR'23 ...
+
+# ⚙️ Misc
+- A summary of papers on gesture and sign language recognition. [![](https://img.shields.io/github/stars/ycmin95/awesome-Gesture-Sign-Language-Recognition?style=social&label=VAC Stars)](https://github.com/ycmin95/awesome-Gesture-Sign-Language-Recognition)
+- A simple tool to visualize the main keywords of accepted papers for the recent Computer Vision conferences [![](https://img.shields.io/github/stars/ycmin95/CVPaperStatistics?style=social&label=VAC Stars)](https://github.com/ycmin95/CVPaperStatistics)
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
