@@ -85,7 +85,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎖 Honors and Awards
-- **China National Scholarship for Ph.D.**, ICT, CAS, 2020
+- **China National Scholarship for Ph.D.**, ICT, CAS, 2022
 
 
 # 📖 Educations
