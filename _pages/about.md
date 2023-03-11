@@ -59,8 +59,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Yuecong Min**, Aiming Hao, Xiujuan Chai, Xilin Chen
 
-<!-- [**Project**](https://github.com/ycmin95/VAC_CSLR) <strong><span class='show_paper_citations' data='qc2906sAAAAJ:zA6iFVUQeVQC'></span></strong> \|  -->
-[![](https://img.shields.io/github/stars/ycmin95/VAC_CSLR?style=social&label=VAC Stars)](https://github.com/ycmin95/VAC_CSLR) [![](https://img.shields.io/github/forks/ycmin95/VAC_CSLR?style=social&label=Forks)](https://github.com/ycmin95/VAC_CSLR)
+[![](https://img.shields.io/github/stars/ycmin95/VAC_CSLR?style=social&label=VAC Stars)](https://github.com/ycmin95/VAC_CSLR) [![](https://img.shields.io/github/forks/ycmin95/VAC_CSLR?style=social&label=Forks)](https://github.com/ycmin95/VAC_CSLR) \| <strong><span class='show_paper_citations' data='qc2906sAAAAJ:zA6iFVUQeVQC'></span></strong>
 - VAC provides an efficient way to make CSLR models end-to-end trainable and is adopted as the baseline model by many recent works
 - Two metrics to evaluate the contributions of the feature extractor and the alignment module
 </div>
@@ -73,7 +72,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Yuecong Min**, Yanxiao Zhang, Xiujuan Chai, Xilin Chen
 
-[![](https://img.shields.io/github/stars/ycmin95/pointlstm-gesture-recognition-pytorch?style=social&label=PointLSTM Stars)](https://github.com/ycmin95/pointlstm-gesture-recognition-pytorch) [![](https://img.shields.io/github/forks/ycmin95/pointlstm-gesture-recognition-pytorch?style=social&label=Forks)](https://github.com/ycmin95/pointlstm-gesture-recognition-pytorch)
+[![](https://img.shields.io/github/stars/ycmin95/pointlstm-gesture-recognition-pytorch?style=social&label=PointLSTM Stars)](https://github.com/ycmin95/pointlstm-gesture-recognition-pytorch) [![](https://img.shields.io/github/forks/ycmin95/pointlstm-gesture-recognition-pytorch?style=social&label=Forks)](https://github.com/ycmin95/pointlstm-gesture-recognition-pytorch) \| <strong><span class='show_paper_citations' data='qc2906sAAAAJ:iH-uZ7U-co4C'></span></strong>
 - PointLSTM can leverage long-term spatio-temporal relationships in irregular sequence data (e.g., point cloud) while preserving the spatial structure for irregular sequence recognition problem
 - Evaluation results on 3D gesture recognition and action recognition show great potential for real-time applications
 </div>
@@ -99,8 +98,8 @@ IEEE TPAMI / IEEE TMM / IEEE TIP / PR ...
 CVPR'22 /ACM MM'22 / ECCV'22 / CVPR'23 ...
 
 # ⚙️ Misc
-- A summary of papers on gesture and sign language recognition. [![](https://img.shields.io/github/stars/ycmin95/awesome-Gesture-Sign-Language-Recognition?style=social&label=VAC Stars)](https://github.com/ycmin95/awesome-Gesture-Sign-Language-Recognition)
-- A simple tool to visualize the main keywords of accepted papers for the recent Computer Vision conferences [![](https://img.shields.io/github/stars/ycmin95/CVPaperStatistics?style=social&label=VAC Stars)](https://github.com/ycmin95/CVPaperStatistics)
+- A summary of papers on gesture and sign language recognition. [![](https://img.shields.io/github/stars/ycmin95/awesome-Gesture-Sign-Language-Recognition?style=social&label=Awesome-Gesture-Sign-Language-Recognition Stars)](https://github.com/ycmin95/awesome-Gesture-Sign-Language-Recognition)
+- A simple tool to visualize the main keywords of accepted papers for the recent Computer Vision conferences [![](https://img.shields.io/github/stars/ycmin95/CVPaperStatistics?style=social&label=CVPaperStatistics Stars)](https://github.com/ycmin95/CVPaperStatistics)
 
 
 <!-- # 💬 Invited Talks
