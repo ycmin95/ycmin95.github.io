@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2022.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2022!
-
+- *2023.07*: &nbsp;🎉🎉 One paper on Co-occurrence signals in CSLR is accepted by ICCV 2023. Congratulations to Peiqi Jiao and the team!
 
 # 📝 Publications 
 
@@ -78,6 +78,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+- CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition. Peiqi Jiao, **Yuecong Min**, Yanan Li, Xiaotao Wang, Lei Lei, Xilin Chen, International Conference on Computer Vision (ICCV), 2023 (accept).
 - [Self-Mutual Distillation Learning for Continuous Sign Language Recognition.](https://openaccess.thecvf.com/content/ICCV2021/html/Hao_Self-Mutual_Distillation_Learning_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html) Aiming Hao, **Yuecong Min**, and Xilin Chen, International Conference on Computer Vision (ICCV), 2021.
 - [Teaching Chinese Sign Language with A Smartphone.](https://www.sciencedirect.com/science/article/pii/S2096579621000309) Yanxiao Zhang, **Yuecong Min**, Xilin Chen, Virtual Reality &amp; Intelligent Hardware, 2021.
 - [FlickerNet: Adaptive 3D Gesture Recognition from Sparse Point Clouds.](https://bmvc2019.org/wp-content/uploads/papers/0326-paper.pdf) **Yuecong Min**, Xiujuan Chai, Lei Zhao, Xilin Chen, British Machine Vision Conference (BMVC), 2019.
