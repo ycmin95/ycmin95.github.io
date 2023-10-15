@@ -34,8 +34,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2022!
+- *2023.10*: Present the doctoral consortium "Alignment Constraints for Video-based Sign Language Understanding" at the workshop on Assistive Computer Vision and Robotics at ICCV23 [[pdf]](https://iplab.dmi.unict.it/acvr2023/program/Alignment_Constraints_for_Video_based_Sign_Language_Understanding.pdf) [[workshop]](https://iplab.dmi.unict.it/acvr2023/program)
 - *2023.07*: &nbsp;🎉🎉 One paper on Co-occurrence signals in CSLR is accepted by ICCV 2023. Congratulations to Peiqi Jiao and the team!
+- *2022.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2022!
 
 # 📝 Publications 
 
@@ -45,6 +46,8 @@ My research interest includes neural machine translation and computer vision. I 
 [Deep Radial Embedding for Visual Sequence Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5670_ECCV_2022_paper.php)
 
 **Yuecong Min**, Peiqi Jiao, Yanan Li, Xiaotao Wang, Lei Lei, Xiujuan Chai, Xilin Chen
+
+<strong><span class='show_paper_citations' data='qc2906sAAAAJ:u_35RYKgDlwC'></span></strong>
 
 <!-- [**Project**](https://github.com/ycmin95/VAC_CSLR) <strong><span class='show_paper_citations' data='qc2906sAAAAJ:u_35RYKgDlwC'></span></strong> -->
 - RadialCTC constrains sequence features on a hypersphere while retaining the iterative alignment mechanism of CTC, which also provides a clear geometric interpretation for CTC
@@ -78,7 +81,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition. Peiqi Jiao, **Yuecong Min**, Yanan Li, Xiaotao Wang, Lei Lei, Xilin Chen, International Conference on Computer Vision (ICCV), 2023 (accept).
+- [CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition.](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html) Peiqi Jiao, **Yuecong Min**, Yanan Li, Xiaotao Wang, Lei Lei, Xilin Chen, International Conference on Computer Vision (ICCV), 2023.
 - [Self-Mutual Distillation Learning for Continuous Sign Language Recognition.](https://openaccess.thecvf.com/content/ICCV2021/html/Hao_Self-Mutual_Distillation_Learning_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html) Aiming Hao, **Yuecong Min**, and Xilin Chen, International Conference on Computer Vision (ICCV), 2021.
 - [Teaching Chinese Sign Language with A Smartphone.](https://www.sciencedirect.com/science/article/pii/S2096579621000309) Yanxiao Zhang, **Yuecong Min**, Xilin Chen, Virtual Reality &amp; Intelligent Hardware, 2021.
 - [FlickerNet: Adaptive 3D Gesture Recognition from Sparse Point Clouds.](https://bmvc2019.org/wp-content/uploads/papers/0326-paper.pdf) **Yuecong Min**, Xiujuan Chai, Lei Zhao, Xilin Chen, British Machine Vision Conference (BMVC), 2019.
