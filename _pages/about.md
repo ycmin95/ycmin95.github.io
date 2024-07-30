@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate in Visual Information Processing and Learning ([VIPL](https://vipl.ict.ac.cn/)) group from the Institute of Computing Technology, Chinese Academy of Sciences, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao). I also had close collaboration with Prof. [Xiujuan Chai](https://scholar.google.com/citations?user=ZcL91HsAAAAJ&hl=en&oi=ao). My research interests mainly focus on human behavior analysis and understanding from sequential data, especially for gesture and sign language. I am also interested in exploring how to use data in deep learning more efficient. Before that, I obtained my bachelor degree from Shandong University.
+I am currently an Assistant Professor in Visual Information Processing and Learning ([VIPL](https://vipl.ict.ac.cn/)) group at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from ICT, CAS in 2024, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao). I also had close collaboration with Prof. [Xiujuan Chai](https://scholar.google.com/citations?user=ZcL91HsAAAAJ&hl=en&oi=ao). My research interests mainly focus on human behavior analysis and understanding from sequential data, especially for gesture and sign language. I am also interested in exploring how to use data in deep learning more efficient. **Feel free to reach out to me if you have an interest in the relevant topics.**
 
 <!-- During my time pursuing a Ph.D., I focus on efficient visual sequence recognition algorithm designs. For short-term recognition tasks 
 (including gesture and isolated sign language recognition), we propose several approaches to adopt the sparse point cloud sequence sampled from 
@@ -35,6 +35,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 
+- *2024.06*: &nbsp;🎉🎉 One paper on Visual Alignment Pre-training for Sign Language Translation was accepted by ECCV 2024. Congratulations to Peiqi Jiao and the team!
+- *2023.12*: &nbsp;🎉🎉 Successfully Defended my PhD Dissertation. 
 - *2023.10*: &nbsp;🎉🎉 One paper on keyframe selection in CSLR was accepted by Scientia Sinica Informationis 2023. 
 - *2023.10*: Present the doctoral consortium "Alignment Constraints for Video-based Sign Language Understanding" at the workshop on Assistive Computer Vision and Robotics at ICCV23 [[pdf]](https://iplab.dmi.unict.it/acvr2023/program/Alignment_Constraints_for_Video_based_Sign_Language_Understanding.pdf) [[workshop]](https://iplab.dmi.unict.it/acvr2023/program)
 - *2023.07*: &nbsp;🎉🎉 One paper on co-occurrence signals in CSLR was accepted by ICCV 2023. Congratulations to Peiqi Jiao and the team!
@@ -83,6 +85,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+- Visual Alignment Pre-training for Sign Language Translation. Peiqi Jiao, **Yuecong Min**, Xilin Chen, accepted by ECCV, 2024.       
 - [Adaptive Keyframe Selection for Continuous Sign Language Recognition.](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0467) **Yuecong Min**, Xilin Chen, SCIENTIA SINICA Informationis, 2023.        
 - [CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition.](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html) Peiqi Jiao, **Yuecong Min**, Yanan Li, Xiaotao Wang, Lei Lei, Xilin Chen, International Conference on Computer Vision (ICCV), 2023.
 - [Self-Mutual Distillation Learning for Continuous Sign Language Recognition.](https://openaccess.thecvf.com/content/ICCV2021/html/Hao_Self-Mutual_Distillation_Learning_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html) Aiming Hao, **Yuecong Min**, and Xilin Chen, International Conference on Computer Vision (ICCV), 2021.
