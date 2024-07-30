@@ -35,12 +35,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 
-- *2024.06*: &nbsp;🎉🎉 One paper on Visual Alignment Pre-training for Sign Language Translation was accepted by ECCV 2024. Congratulations to Peiqi Jiao and the team!
-- *2023.12*: &nbsp;🎉🎉 Successfully Defended my PhD Dissertation. 
+- *2024.06*: &nbsp;🎉🎉 One paper on vision-language pre-training in SLT was accepted by ECCV 2024. Congratulations to Peiqi Jiao and the team!
+- *2023.12*: &nbsp;🎉🎉 Successfully defended my PhD dissertation. 
 - *2023.10*: &nbsp;🎉🎉 One paper on keyframe selection in CSLR was accepted by Scientia Sinica Informationis 2023. 
 - *2023.10*: Present the doctoral consortium "Alignment Constraints for Video-based Sign Language Understanding" at the workshop on Assistive Computer Vision and Robotics at ICCV23 [[pdf]](https://iplab.dmi.unict.it/acvr2023/program/Alignment_Constraints_for_Video_based_Sign_Language_Understanding.pdf) [[workshop]](https://iplab.dmi.unict.it/acvr2023/program)
 - *2023.07*: &nbsp;🎉🎉 One paper on co-occurrence signals in CSLR was accepted by ICCV 2023. Congratulations to Peiqi Jiao and the team!
-- *2022.07*: &nbsp;🎉🎉 One paper was accepted by ECCV 2022!
+- *2022.07*: &nbsp;🎉🎉 One paper on sequential representation learning was accepted by ECCV 2022.
 
 # 📝 Publications 
 
@@ -98,7 +98,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- 2017.09 - now, I am a Ph.D. student at Institute of Computing Technology, CAS, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao).
+- 2017.09 - 2024.1, I was a Ph.D. student at Institute of Computing Technology, CAS, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao).
 - 2013.09 - 2017.07, I was a college student in Shandong University, Weihai.
 
 # ✒️ Academic Services
