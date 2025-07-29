@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuecong Min (闵越聪)"
+title                    : "Yuecong Min"
 description              : "Deep Learning, Deeper Thinking."
 repository               : "ycmin95/ycmin95.github.io"
 google_scholar_stats_use_cdn : true
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qc2906sAAAAJ"
-  email            : "minyuecong17@mails.ucas.ac.cn"
+  email            : "minyuecong@ict.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

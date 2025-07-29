@@ -17,9 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Welcome to my homepage
+# 👦 About Me
 
-I am currently an Assistant Professor in Visual Information Processing and Learning ([VIPL](https://vipl.ict.ac.cn/)) group at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from ICT, CAS in 2024, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao). I also had close collaboration with Prof. [Jie Zhang](https://scholar.google.com/citations?user=hJAhF0sAAAAJ) and Prof. [Xiujuan Chai](https://scholar.google.com/citations?user=ZcL91HsAAAAJ). My research interests mainly focus on human behavior analysis and understanding from sequential data, with a particular emphasis on gesture and sign language. I am also interested in efficient data utilization in deep learning and the trustworthiness of multimodal large language models. ** Currently, I am actively working to promote <font color='red'>the real-world deployment of sign language technologies</font>. Feel free to reach out if you’re interested in any of these topics or potential collaboration. **
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap;">
+  <div style="flex: 0 0 60%; min-width: 260px;">
+    <p>
+      I am currently an Assistant Professor in Visual Information Processing and Learning ([VIPL](https://vipl.ict.ac.cn/)) group at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from ICT, CAS in 2024, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao). I also had close collaboration with Prof. [Jie Zhang](https://scholar.google.com/citations?user=hJAhF0sAAAAJ) and Prof. [Xiujuan Chai](https://scholar.google.com/citations?user=ZcL91HsAAAAJ). My research interests focus on human-centered interaction with computational systems across physical and cyber spaces, particularly in fine-grained body language understanding and human-in-the-loop agentic systems. I believe AGI will eventually emerge, and understanding how humans can effectively collaborate and coexist with intelligent agents is both an exciting and essential question. <strong>Currently, I am actively working to promote <font color='red'>the real-world deployment of sign language technologies</font> and the evaluation of agentic frameworks. Feel free to reach out if you're interested in any of these topics or potential collaboration.</strong>
+    </p>
+  </div>
+  <div style="flex: 0 0 40%; min-width: 200px; text-align: center;">
+    <img src="images/collaboration.jpg" alt="Collaboration" style="max-width: 100%; height: auto; border-radius: 8px;">
+  </div>
+</div>
 
 <!-- During my time pursuing a Ph.D., I focus on efficient visual sequence recognition algorithm designs. For short-term recognition tasks 
 (including gesture and isolated sign language recognition), we propose several approaches to adopt the sparse point cloud sequence sampled from 
@@ -36,10 +45,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2026.01*: &nbsp;📣📣 We are organizing [Generative AI for Sign Language](https://genai4sl.github.io/) workshop in CVPR 2026 in Denver. We welcome submissions and encourage everyone to attend.
+- *2026.01*: &nbsp;🎉🎉 A survey of multimodal hallucination evaluation and detection in VLMs was accepted by IJCV 2026. Congratulations to Zhiyuan Chen and the team!
+- *2025.09*: &nbsp;🎉🎉 One paper on hallucination evalution in VLMs was accepted by ACM MM D&B 2025. Congratulations to [Yan Bei](https://scholar.google.com/citations?hl=zh-CN&user=7Xcb8hoAAAAJ&view_op=list_works&sortby=pubdate) and the team!
 - *2025.06*: &nbsp;🎉🎉 Our team won [the 1st Multimodal Sign Language Recognition Challenge Challenge at ICCV'25](https://multimodal-sign-language-recognition.github.io/ICCV-2025/) in signer-independent and unseen sentence sub-tasks. Congratulations to everyone involved!
 - *2025.01*: &nbsp;🎉🎉 Our team won [the Cross-View Isolated Sign Language Recognition Challenge at WWW'25](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/docs/en/www) in both the RGB and RGB-D tracks. Congratulations to everyone involved!
 - *2024.09*: &nbsp;🎉🎉 One paper on skeleton-aware sign language recognition was accepted by ACCV 2024. Congratulations to Yifan Yang and the team!
-- *2024.06*: &nbsp;🎉🎉 One paper on vision-language pre-training in SLT was accepted by ECCV 2024. Congratulations to Peiqi Jiao and the team!
+- *2024.06*: &nbsp;🎉🎉 One paper on vision-language pre-training in SLT was accepted by ECCV 2024. Congratulations to [Peiqi Jiao](https://scholar.google.com/citations?hl=zh-CN&user=47hdL4wAAAAJ&view_op=list_works&sortby=pubdate) and the team!
 - *2023.12*: &nbsp;🎉🎉 Successfully defended my PhD dissertation. 
 - *2023.10*: &nbsp;🎉🎉 One paper on keyframe selection in CSLR was accepted by Scientia Sinica Informationis 2023. 
 - *2023.10*: Present the doctoral consortium "Alignment Constraints for Video-based Sign Language Understanding" at the workshop on Assistive Computer Vision and Robotics at ICCV23 [[pdf]](https://iplab.dmi.unict.it/acvr2023/program/Alignment_Constraints_for_Video_based_Sign_Language_Understanding.pdf) [[workshop]](https://iplab.dmi.unict.it/acvr2023/program)
@@ -88,6 +100,10 @@ My research interest includes neural machine translation and computer vision. I 
 - Evaluation results on 3D gesture recognition and action recognition show great potential for real-time applications
 </div>
 </div>
+
+- [A Survey of Multimodal Hallucination Evaluation and Detection](https://arxiv.org/abs/2507.19024) Zhiyuan Chen, **Yuecong Min**, Jie Zhang, Bei Yan, Jiahao Wang, Xiaozhen Wang, Shiguang Shan, accepted by International Journal of Computer Vision, 2026.
+
+- [SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs](https://dl.acm.org/doi/abs/10.1145/3746027.3758308) Bei Yan, Zhiyuan Chen, **Yuecong Min**, Jie Zhang, Jiahao Wang, Xiaozhen Wang, Shiguang Shan, Proceedings of the 33rd ACM International Conference on Multimedia, Dataset and Benchmark Track, 2025.
 
 - [Synthetic View Augmentation for Sign Language Recognition.](https://dl.acm.org/doi/abs/10.1145/3701716.3717520) Yuting Peng, Peiqi Jiao, Honggang Zou, **Yuecong Min**, Xilin Chen, Companion Proceedings of the ACM on Web Conference, 2025.
 
