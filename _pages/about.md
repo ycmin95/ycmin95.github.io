@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Professor in Visual Information Processing and Learning ([VIPL](https://vipl.ict.ac.cn/)) group at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from ICT, CAS in 2024, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao). I also had close collaboration with Prof. [Xiujuan Chai](https://scholar.google.com/citations?user=ZcL91HsAAAAJ&hl=en&oi=ao). My research interests mainly focus on human behavior analysis and understanding from sequential data, especially for gesture and sign language. I am also interested in exploring how to use data in deep learning more efficient. **Feel free to reach out to me if you have an interest in the relevant topics.**
+# Welcome to my homepage
+
+I am currently an Assistant Professor in Visual Information Processing and Learning ([VIPL](https://vipl.ict.ac.cn/)) group at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from ICT, CAS in 2024, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao). I also had close collaboration with Prof. [Jie Zhang](https://scholar.google.com/citations?user=hJAhF0sAAAAJ) and Prof. [Xiujuan Chai](https://scholar.google.com/citations?user=ZcL91HsAAAAJ). My research interests mainly focus on human behavior analysis and understanding from sequential data, with a particular emphasis on gesture and sign language. I am also interested in efficient data utilization in deep learning and the trustworthiness of multimodal large language models. ** Currently, I am actively working to promote <font color='red'>the real-world deployment of sign language technologies</font>. Feel free to reach out if you’re interested in any of these topics or potential collaboration. **
 
 <!-- During my time pursuing a Ph.D., I focus on efficient visual sequence recognition algorithm designs. For short-term recognition tasks 
 (including gesture and isolated sign language recognition), we propose several approaches to adopt the sparse point cloud sequence sampled from 
@@ -34,6 +36,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Our team won [the 1st Multimodal Sign Language Recognition Challenge Challenge at ICCV'25](https://multimodal-sign-language-recognition.github.io/ICCV-2025/) in signer-independent and unseen sentence sub-tasks. Congratulations to everyone involved!
+- *2025.01*: &nbsp;🎉🎉 Our team won [the Cross-View Isolated Sign Language Recognition Challenge at WWW'25](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/docs/en/www) in both the RGB and RGB-D tracks. Congratulations to everyone involved!
 - *2024.09*: &nbsp;🎉🎉 One paper on skeleton-aware sign language recognition was accepted by ACCV 2024. Congratulations to Yifan Yang and the team!
 - *2024.06*: &nbsp;🎉🎉 One paper on vision-language pre-training in SLT was accepted by ECCV 2024. Congratulations to Peiqi Jiao and the team!
 - *2023.12*: &nbsp;🎉🎉 Successfully defended my PhD dissertation. 
@@ -85,7 +89,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- S2Net: Skeleton-aware SlowFast Network for Efficient Sign Language Recognition. Yifan Yang, **Yuecong Min**, Xilin Chen, accepted by Asian Conference on Computer Visionn (ACCV), 2024.
+- [Synthetic View Augmentation for Sign Language Recognition.](https://dl.acm.org/doi/abs/10.1145/3701716.3717520) Yuting Peng, Peiqi Jiao, Honggang Zou, **Yuecong Min**, Xilin Chen, Companion Proceedings of the ACM on Web Conference, 2025.
+
+- [S2Net: Skeleton-aware SlowFast Network for Efficient Sign Language Recognition.](https://openaccess.thecvf.com/content/ACCV2024/html/Yang_S2Net_Skeleton-aware_SlowFast_Network_for_Efficient_Sign_Language_Recognition_ACCV_2024_paper.html) Yifan Yang, **Yuecong Min**, Xilin Chen, Asian Conference on Computer Vision (ACCV), 2024.
 - [Visual Alignment Pre-training for Sign Language Translation.](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5894_ECCV_2024_paper.php) Peiqi Jiao, **Yuecong Min**, Xilin Chen, European Conference on Computer Vision (ECCV), 2024. 
 - [Adaptive Keyframe Selection for Continuous Sign Language Recognition.](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0467) **Yuecong Min**, Xilin Chen, SCIENTIA SINICA Informationis, 2023.        
 - [CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition.](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html) Peiqi Jiao, **Yuecong Min**, Yanan Li, Xiaotao Wang, Lei Lei, Xilin Chen, International Conference on Computer Vision (ICCV), 2023.
@@ -93,10 +99,9 @@ My research interest includes neural machine translation and computer vision. I 
 - [Teaching Chinese Sign Language with A Smartphone.](https://www.sciencedirect.com/science/article/pii/S2096579621000309) Yanxiao Zhang, **Yuecong Min**, Xilin Chen, Virtual Reality &amp; Intelligent Hardware, 2021.
 - [FlickerNet: Adaptive 3D Gesture Recognition from Sparse Point Clouds.](https://bmvc2019.org/wp-content/uploads/papers/0326-paper.pdf) **Yuecong Min**, Xiujuan Chai, Lei Zhao, Xilin Chen, British Machine Vision Conference (BMVC), 2019.
 
-
 # 🎖 Honors and Awards
-- **China National Scholarship for Ph.D.**, ICT, CAS, 2022
-
+- **Excellence Prize of the Chinese Academy of Sciences (CAS) President Award**, 2023.
+- **China National Scholarship for Ph.D.**, 2022
 
 # 📖 Educations
 - 2017.09 - 2024.1, I was a Ph.D. student at Institute of Computing Technology, CAS, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao).
@@ -109,6 +114,7 @@ IEEE TPAMI / IEEE TMM / IEEE TIP / PR ...
 CVPR'22 /ACM MM'22 / ECCV'22 / CVPR'23 ...
 
 # ⚙️ Misc
+- A summary of papers on multimodal hallucination benchmark and detection. [survey paper on arXiv](https://arxiv.org/abs/2507.19024)
 - A summary of papers on gesture and sign language recognition. [![](https://img.shields.io/github/stars/ycmin95/awesome-Gesture-Sign-Language-Recognition?style=social&label=Awesome-Gesture-Sign-Language-Recognition Stars)](https://github.com/ycmin95/awesome-Gesture-Sign-Language-Recognition)
 - A simple tool to visualize the main keywords of accepted papers for the recent Computer Vision conferences [![](https://img.shields.io/github/stars/ycmin95/CVPaperStatistics?style=social&label=CVPaperStatistics Stars)](https://github.com/ycmin95/CVPaperStatistics)
 
