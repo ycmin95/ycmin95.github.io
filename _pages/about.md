@@ -38,18 +38,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2026.01*: &nbsp;📣📣 We are organizing [Generative AI for Sign Language](https://genai4sl.github.io/) workshop in CVPR 2026 in Denver. We welcome submissions and encourage everyone to attend.
+- *2026.01*: &nbsp;📣📣 We are organizing [Generative AI for Sign Language](https://genai4sl.github.io/) workshop at CVPR 2026 in Denver. We welcome submissions and encourage everyone to attend.
 - *2026.01*: &nbsp;🎉🎉 A survey of multimodal hallucination evaluation and detection in VLMs was accepted by IJCV 2026. Congratulations to Zhiyuan Chen and the team!
 - *2025.09*: &nbsp;🎉🎉 One paper on hallucination evalution in VLMs was accepted by ACM MM D&B 2025. Congratulations to [Yan Bei](https://scholar.google.com/citations?hl=zh-CN&user=7Xcb8hoAAAAJ&view_op=list_works&sortby=pubdate) and the team!
 - *2025.06*: &nbsp;🎉🎉 Our team won [the 1st Multimodal Sign Language Recognition Challenge Challenge at ICCV'25](https://multimodal-sign-language-recognition.github.io/ICCV-2025/) in signer-independent and unseen sentence sub-tasks. Congratulations to everyone involved!
 - *2025.01*: &nbsp;🎉🎉 Our team won [the Cross-View Isolated Sign Language Recognition Challenge at WWW'25](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/docs/en/www) in both the RGB and RGB-D tracks. Congratulations to everyone involved!
 - *2024.09*: &nbsp;🎉🎉 One paper on skeleton-aware sign language recognition was accepted by ACCV 2024. Congratulations to Yifan Yang and the team!
 - *2024.06*: &nbsp;🎉🎉 One paper on vision-language pre-training in SLT was accepted by ECCV 2024. Congratulations to [Peiqi Jiao](https://scholar.google.com/citations?hl=zh-CN&user=47hdL4wAAAAJ&view_op=list_works&sortby=pubdate) and the team!
-- *2023.12*: &nbsp;🎉🎉 Successfully defended my PhD dissertation. 
-- *2023.10*: &nbsp;🎉🎉 One paper on keyframe selection in CSLR was accepted by Scientia Sinica Informationis 2023. 
-- *2023.10*: Present the doctoral consortium "Alignment Constraints for Video-based Sign Language Understanding" at the workshop on Assistive Computer Vision and Robotics at ICCV23 [[pdf]](https://iplab.dmi.unict.it/acvr2023/program/Alignment_Constraints_for_Video_based_Sign_Language_Understanding.pdf) [[workshop]](https://iplab.dmi.unict.it/acvr2023/program)
-- *2023.07*: &nbsp;🎉🎉 One paper on co-occurrence signals in CSLR was accepted by ICCV 2023. Congratulations to Peiqi Jiao and the team!
-- *2022.07*: &nbsp;🎉🎉 One paper on sequential representation learning was accepted by ECCV 2022.
+
 
 # 📝 Publications 
 
@@ -94,9 +90,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [A Survey of Multimodal Hallucination Evaluation and Detection](https://arxiv.org/abs/2507.19024) Zhiyuan Chen, **Yuecong Min**, Jie Zhang, Bei Yan, Jiahao Wang, Xiaozhen Wang, Shiguang Shan, accepted by International Journal of Computer Vision, 2026.
+- [A Survey of Multimodal Hallucination Evaluation and Detection.](https://arxiv.org/abs/2507.19024) Zhiyuan Chen, **Yuecong Min**, Jie Zhang, Bei Yan, Jiahao Wang, Xiaozhen Wang, Shiguang Shan, accepted by International Journal of Computer Vision, 2026.
 
-- [SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs](https://dl.acm.org/doi/abs/10.1145/3746027.3758308) Bei Yan, Zhiyuan Chen, **Yuecong Min**, Jie Zhang, Jiahao Wang, Xiaozhen Wang, Shiguang Shan, Proceedings of the 33rd ACM International Conference on Multimedia, Dataset and Benchmark Track, 2025.
+- [SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs.](https://dl.acm.org/doi/abs/10.1145/3746027.3758308) Bei Yan, Zhiyuan Chen, **Yuecong Min**, Jie Zhang, Jiahao Wang, Xiaozhen Wang, Shiguang Shan, Proceedings of the 33rd ACM International Conference on Multimedia, Dataset and Benchmark Track, 2025.
 
 - [Synthetic View Augmentation for Sign Language Recognition.](https://dl.acm.org/doi/abs/10.1145/3701716.3717520) Yuting Peng, Peiqi Jiao, Honggang Zou, **Yuecong Min**, Xilin Chen, Companion Proceedings of the ACM on Web Conference, 2025.
 
@@ -109,6 +105,10 @@ My research interest includes neural machine translation and computer vision. I 
 - [FlickerNet: Adaptive 3D Gesture Recognition from Sparse Point Clouds.](https://bmvc2019.org/wp-content/uploads/papers/0326-paper.pdf) **Yuecong Min**, Xiujuan Chai, Lei Zhao, Xilin Chen, British Machine Vision Conference (BMVC), 2019.
 
 # 🎖 Honors and Awards
+- ICCV 2025 **Multimodal Sign Language Recognition** Challenge – 1st Place
+  - Achieved top performance in signer-independent and unseen sentence sub-tasks.
+- WWW 2025 **Cross-View Isolated Sign Language Recognition** Challenge – 1st Place
+  - Achieved top performance in RGB and RGB-D tracks.
 - **Excellence Prize of the Chinese Academy of Sciences (CAS) President Award**, 2023.
 - **China National Scholarship for Ph.D.**, 2022
 
@@ -123,7 +123,6 @@ IEEE TPAMI / IEEE TMM / IEEE TIP / PR ...
 CVPR'22 /ACM MM'22 / ECCV'22 / CVPR'23 ...
 
 # ⚙️ Misc
-- A summary of papers on multimodal hallucination benchmark and detection. [survey paper on arXiv](https://arxiv.org/abs/2507.19024)
 - A summary of papers on gesture and sign language recognition. [![](https://img.shields.io/github/stars/ycmin95/awesome-Gesture-Sign-Language-Recognition?style=social&label=Awesome-Gesture-Sign-Language-Recognition Stars)](https://github.com/ycmin95/awesome-Gesture-Sign-Language-Recognition)
 - A simple tool to visualize the main keywords of accepted papers for the recent Computer Vision conferences [![](https://img.shields.io/github/stars/ycmin95/CVPaperStatistics?style=social&label=CVPaperStatistics Stars)](https://github.com/ycmin95/CVPaperStatistics)
 
