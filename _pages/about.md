@@ -19,16 +19,9 @@ redirect_from:
 
 # 👦 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap;">
-  <div style="flex: 0 0 60%; min-width: 260px;">
-    <p>
-      I am currently an Assistant Professor in Visual Information Processing and Learning ([VIPL](https://vipl.ict.ac.cn/)) group at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from ICT, CAS in 2024, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao). I also had close collaboration with Prof. [Jie Zhang](https://scholar.google.com/citations?user=hJAhF0sAAAAJ) and Prof. [Xiujuan Chai](https://scholar.google.com/citations?user=ZcL91HsAAAAJ). My research interests focus on human-centered interaction with computational systems across physical and cyber spaces, particularly in fine-grained body language understanding and human-in-the-loop agentic systems. I believe AGI will eventually emerge, and understanding how humans can effectively collaborate and coexist with intelligent agents is both an exciting and essential question. <strong>Currently, I am actively working to promote <font color='red'>the real-world deployment of sign language technologies</font> and the evaluation of agentic frameworks. Feel free to reach out if you're interested in any of these topics or potential collaboration.</strong>
-    </p>
-  </div>
-  <div style="flex: 0 0 40%; min-width: 200px; text-align: center;">
-    <img src="images/collaboration.jpg" alt="Collaboration" style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
-</div>
+I am currently an Assistant Professor in Visual Information Processing and Learning ([VIPL](https://vipl.ict.ac.cn/)) group at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from ICT, CAS in 2024, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao). I also had close collaboration with Prof. [Jie Zhang](https://scholar.google.com/citations?user=hJAhF0sAAAAJ) and Prof. [Xiujuan Chai](https://scholar.google.com/citations?user=ZcL91HsAAAAJ). My research interests focus on human-centered interaction with computational systems across physical and cyber spaces, particularly in fine-grained body language understanding and human-in-the-loop agentic systems. I believe AGI will eventually emerge, and understanding how humans can effectively collaborate and coexist with intelligent agents is both an exciting and essential question. **Currently, I am actively working to promote <font color='red'>the real-world deployment of sign language technologies</font> and the evaluation of agentic frameworks. Feel free to reach out if you're interested in any of these topics or potential collaboration.**
+
+<!-- ![Collaboration](images/collaboration.jpg) -->
 
 <!-- During my time pursuing a Ph.D., I focus on efficient visual sequence recognition algorithm designs. For short-term recognition tasks 
 (including gesture and isolated sign language recognition), we propose several approaches to adopt the sparse point cloud sequence sampled from 
