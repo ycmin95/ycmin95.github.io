@@ -91,6 +91,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+- Learning View-Invariant Sign Language Representations via Dual-Stream Contrastive Learning. Yuting Peng, **Yuecong Min**, Xilin Chen, accepted by IEEE International Conference on Robotics and Automation, 2026.
+
 - [A Survey of Multimodal Hallucination Evaluation and Detection.](https://arxiv.org/abs/2507.19024) Zhiyuan Chen, **Yuecong Min**, Jie Zhang, Bei Yan, Jiahao Wang, Xiaozhen Wang, Shiguang Shan, accepted by International Journal of Computer Vision, 2026.
 
 - [SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs.](https://dl.acm.org/doi/abs/10.1145/3746027.3758308) Bei Yan, Zhiyuan Chen, **Yuecong Min**, Jie Zhang, Jiahao Wang, Xiaozhen Wang, Shiguang Shan, Proceedings of the 33rd ACM International Conference on Multimedia, Dataset and Benchmark Track, 2025.
