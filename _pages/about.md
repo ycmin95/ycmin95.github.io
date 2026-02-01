@@ -38,6 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper on cross-view sign language recognition was accepted by ICRA 2026. Congratulations to [Yuting Peng](https://scholar.google.com/citations?user=-Be47NQAAAAJ&hl=zh-CN&oi=sra) and the team!
 - *2026.01*: &nbsp;📣📣 We are organizing [Generative AI for Sign Language](https://genai4sl.github.io/) workshop at CVPR 2026 in Denver. We welcome submissions and encourage everyone to attend.
 - *2026.01*: &nbsp;🎉🎉 A survey of multimodal hallucination evaluation and detection in VLMs was accepted by IJCV 2026. Congratulations to Zhiyuan Chen and the team!
 - *2025.09*: &nbsp;🎉🎉 One paper on hallucination evalution in VLMs was accepted by ACM MM D&B 2025. Congratulations to [Yan Bei](https://scholar.google.com/citations?hl=zh-CN&user=7Xcb8hoAAAAJ&view_op=list_works&sortby=pubdate) and the team!
